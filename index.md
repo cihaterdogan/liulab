@@ -21,4 +21,5 @@ Welcome to Dr. Yunlong Liu’s laboratory in the Center for Computational Biolog
   link="research"
   text=text
   width="100%"
+  height="100%"
 %}
