@@ -5,11 +5,9 @@
 
 Welcome to Dr. Yunlong Liu’s laboratory in the Center for Computational Biology and Bioinformatics at Indiana University School of Medicine.
 
-{% include section.html %}
-
 ## Overview
 {%
-  include feature.html
+  include figure.html
   image="images/Picture1.png"
   width="100%"
   height="100%"
