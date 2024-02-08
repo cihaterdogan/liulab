@@ -8,18 +8,15 @@ Welcome to Dr. Yunlong Liu’s laboratory in the Center for Computational Biolog
 {% include section.html %}
 
 ## Overview
+{%
+  include feature.html
+  image="images/Picture1.png"
+  width="100%"
+  height="100%"
+%}
 
 {% capture text %}
 
  Our team is dedicated to employing systems biology approaches to decipher the molecular mechanisms of gene regulation that play critical roles in complex diseases such as cancer, addiction, and neurodegenerative disorders. Specific research areas include developing and implementing cutting-edge experimental assays and innovative computational algorithms in understanding the functions of genetic variants in complex diseases, designing methodologies on analyzing multimodal high-dimensional data, and understanding regulatory mechanisms and translational impact of alternative splicing in cancer and other diseases. All these areas involve multi-disciplinary components, including functional genomics, genetics, computational and statistical modeling, computer science/engineering, and data management.
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/Picture1.png"
-  link="research"
-  text=text
-  width="100%"
-  height="100%"
-%}
