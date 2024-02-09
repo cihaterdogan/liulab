@@ -1,7 +1,7 @@
 ---
 name: Hongyu Gao
-image: images/photo.jpg
-description: Assistant Scientist PHD
+image: images/members/hgao.jpg
+description: Assistant Scientist
 role: as
 ---
 
