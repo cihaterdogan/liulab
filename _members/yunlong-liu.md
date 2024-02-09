@@ -1,14 +1,12 @@
 ---
 name: Yunlong Liu
-image: images/yliu.png
+image: images/members/yliu.png
 role: pi
 group: alum
-links:
-  github: Yunlong Liu
 ---
-## Titles & Appointments
-{% include section.html %}
 
+{% include section.html %}
+## Titles & Appointments
 - Director, Center for Computational Biology & Bioinformatics
 - Director, Center for Medical Genomics
 - Chancellor's Professor, IUPUI
