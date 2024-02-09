@@ -1,6 +1,6 @@
 ---
 name: Hongyu Gao
-image: images/members/hgao.jpg
+image: images/members/hgao.png
 description: Assistant Scientist
 role: as
 ---
