@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-Dr. Liu is the coordinator for the following courses:
+# Dr. Liu is the coordinator for the following courses:
 -	MGEN-G788 (INFO-B574/INFO-B474) Next Generation Sequencing, 3 credit hours, spring semesters
 -	GRDM-G888 Single-cell and Spatial Omics, 2 credit hours, fall semesters
 -	GRDM-G889 Single-cell and Spatial Omics Hands-on, 1 credit hour, fall semesters
