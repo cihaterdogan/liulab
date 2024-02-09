@@ -5,7 +5,7 @@ nav:
   tooltip: Courses, training, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Teaching
+# {% include icon.html icon="fa-solid fa-chalkboard" %}Teaching
 
 {% include section.html %}
 
