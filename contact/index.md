@@ -1,39 +1,30 @@
 ---
 title: Contact
 nav:
-  order: 4
+  order: 5
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-paper-plane"></i>Contact
-
-Our lab is part of the Center for Computational Biology and Bioinformatics at the [IU School of Medicine](https://medicine.iu.edu/).
-
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="Yunlong Liu"
-  tooltip=""
-  link="yuliu@iu.edu"
-  style="button"
-%}
-{%
-  include link.html
-  type="address"
-  icon=""
-  text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/LnEZ4FqoPvDF9fDV9"
-  style="button"
-%}
-{:.center}
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 {% include section.html %}
+Yunlong Liu Lab's is part of the Center for Computational Biology and Bioinformatics at the [IU School of Medicine](https://medicine.iu.edu/).
 
-### <i class="fas fa-mail-bulk"></i>Address
-
-410 W 10th St,
-Indianapolis, 
-IN 46202
-{:.center}
+{%
+  include button.html
+  type="email"
+  text="Yunlong liu"
+  link="yunlongliu@iu.edu"
+%}
+{%
+  include button.html
+  type="phone"
+  text="(317) 278-9222"
+  link="+1-317-278-9222"
+%}
+{%
+  include button.html
+  type="address"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://maps.app.goo.gl/LnEZ4FqoPvDF9fDV9"
+%}
