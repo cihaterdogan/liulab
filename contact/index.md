@@ -1,32 +1,39 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 4
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# <i class="fas fa-paper-plane"></i>Contact
 
-HS 5000
-MMGE
-IN
-Indianapolis, IN
+Our lab is part of the Center for Computational Biology and Bioinformatics at the [IU School of Medicine](https://medicine.iu.edu/).
 
 {%
-  include button.html
+  include link.html
   type="email"
-  text="yunlongliu@iu.edu"
-  link="yunlongliu@iu.edu"
+  icon=""
+  text="Yunlong Liu"
+  tooltip=""
+  link="yuliu@iu.edu"
+  style="button"
 %}
 {%
-  include button.html
-  type="phone"
-  text="(317) 278-9222"
-  link="+1-317-278-9222"
-%}
-{%
-  include button.html
+  include link.html
   type="address"
+  icon=""
+  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/LnEZ4FqoPvDF9fDV9"
+  style="button"
 %}
+{:.center}
+
+{% include section.html %}
+
+### <i class="fas fa-mail-bulk"></i>Address
+
+410 W 10th St,
+Indianapolis, 
+IN 46202
+{:.center}
