@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 4
   tooltip: Email, address, and location
 ---
 
@@ -9,6 +9,7 @@ nav:
 
 {% include section.html %}
 Yunlong Liu Lab's is part of the Center for Computational Biology and Bioinformatics at the [IU School of Medicine](https://medicine.iu.edu/).
+{:.center}
 
 {%
   include button.html
