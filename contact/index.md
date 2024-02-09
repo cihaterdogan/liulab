@@ -14,7 +14,7 @@ Yunlong Liu Lab's is part of the Center for Computational Biology and Bioinforma
   include button.html
   type="email"
   text="Yunlong liu"
-  link="yunlongliu@iu.edu"
+  link="yunliu@iu.edu"
 %}
 {%
   include button.html
@@ -28,3 +28,4 @@ Yunlong Liu Lab's is part of the Center for Computational Biology and Bioinforma
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/LnEZ4FqoPvDF9fDV9"
 %}
+{:.center}
